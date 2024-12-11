@@ -1,9 +1,14 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "keywords": ["persian number", "persian", "farsi", "farsi digits"],
+  "keywords": [
+    "persian number",
+    "persian",
+    "farsi",
+    "farsi digits"
+  ],
   "files": [
     "dist",
     "src"
